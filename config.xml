@@ -87,5 +87,6 @@
         <variable name="APP_ID" value="5c574902" />
         <variable name="CHANNEL_NAME" value="Production" />
         <variable name="UPDATE_METHOD" value="background" />
+        <variable name="MAX_STORE" value="3" />
     </plugin>
 </widget>
